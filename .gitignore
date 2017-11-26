@@ -1,0 +1,16 @@
+# Log files
+*.out
+*.log
+*.dat
+*~
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Fortran module files
+*.mod
+*.smod
+
